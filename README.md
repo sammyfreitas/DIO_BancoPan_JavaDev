@@ -1,6 +1,9 @@
 # Banco PAN Java Developer
 ---------------------------------------------------------------------------------------------------
+<div align="center"><img height="200em" src="https://user-images.githubusercontent.com/93049899/218183912-ef8df551-0b66-4ef0-afbc-7aa553c67b5c.png"/></div>
+
       Intermediário * 肋 114 hrs
+
 #### O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha completa em Java Spring Boot e 5 mil bolsas de estudo disponíveis. É indicado para pessoas de baixa renda e de grupos sub representados que estão em busca de sua primeira formação no universo da tecnologia, entretanto, qualquer pessoa interessada pode participar.
 
      27 cursos * 5 desafios de projeto * 10 desafios de código * 1 live
