@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "ColdPlay"},
+                  "SongTitle": {"S": "A Sky Full of Stars"},
+                  "AlbumTitle": {"S": "Ghost Stories"},
+                  "SongYear": {"S": "2014"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "ColdPlay"},
+                  "SongTitle": {"S": "Something Just Like This"},
+                  "AlbumTitle": {"S": "Memories...Do Not Open"},
+                  "SongYear": {"S": "2017"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "ColdPlay"},
+                  "SongTitle": {"S": "Hymn for the Weekend"},
+                  "AlbumTitle": {"S": "A Head Full of Dreams"},
+                  "SongYear": {"S": "2015"}
+                }
+            }
+        }
+      ]
+}

@@ -1,0 +1,6 @@
+{
+    "Artist": {"S": "ColdPlay"},
+	"SongTitle": {"S": "A Sky Full of Stars"},
+    "AlbumTitle": {"S": "Ghost Stories"},
+    "SongYear": {"S": "2014"}
+}
